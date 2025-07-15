@@ -44,15 +44,3 @@ Transforming data into decisions with Python, ML, GenAI, and powerful visual sto
 > Turning complex data into clear, actionable stories.
 
 ---
-
-## 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KG-GitHubRepo&show_icons=true&theme=tokyonight" alt="Komal's GitHub stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KG-GitHubRepo&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
----
